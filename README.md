@@ -5,7 +5,8 @@
 > *"Lukot"* is Filipino for crumpled. **UnLukot** un-crumples it.
 
 Everything runs on-device.
-
+APK for trying is under releases or here (https://github.com/artxxcoder/UnLukot/releases/tag/APK)
+ - Download the APK and then open it! 
 ---
 
 ## Open in Android Studio
