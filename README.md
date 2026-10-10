@@ -4,7 +4,7 @@
 
 > *"Lukot"* is Filipino for crumpled. **UnLukot** un-crumples it.
 
-Green-and-white Android app (Kotlin + Jetpack Compose) with light and dark themes. Everything runs on-device.
+Everything runs on-device.
 
 ---
 
